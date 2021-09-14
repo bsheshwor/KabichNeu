@@ -1,6 +1,6 @@
 ### Hi there 
 
-<a href="#"><img width="100%" height="auto" src="https://image.flaticon.com/icons/png/512/3098/3098051.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://image.flaticon.com/icons/png/512/3098/3098051.png" height="50px"/></a>
 <h1 align="center">Hi👋, I am Bisheshwor Neupane</h1>
 <h3 align="center">I'm a passionate python programmer and Machine Learning enthusiast from Nepal.</h3>
 

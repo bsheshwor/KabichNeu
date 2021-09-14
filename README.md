@@ -57,7 +57,7 @@
 
 <a href = "https://www.linkedin.com/in/bisheshwor-neupane-508344179/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.youtube.com/channel/UCqKssFOM-kD4KJOIYUedLRA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://www.upwork.com/freelancers/~01fc2bc0b0ea4e62e6"><img src="https://img.icons8.com/ios/50/000000/upwork.png"/></a>
+<a href = "https://www.upwork.com/freelancers/~01fc2bc0b0ea4e62e6"><img src="https://cdn.worldvectorlogo.com/logos/upwork-1.svg"/></a>
 <a href = "https://www.facebook.com/Bshesh/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 </p>
 

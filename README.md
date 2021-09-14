@@ -1,7 +1,6 @@
 ### Hi there 
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
+<a href="#"><img width="100%" height="auto" src="https://img.icons8.com/external-itim2101-lineal-color-itim2101/64/000000/external-programmer-male-occupation-avatar-itim2101-lineal-color-itim2101.png" height="175px"/></a>
 <h1 align="center">Hi👋, I am Bisheshwor Neupane</h1>
 <h3 align="center">I'm a passionate python programmer and Machine Learning enthusiast from Nepal.</h3>
 
@@ -39,14 +38,8 @@
 <br/>
 
 
+
 ## 📊 My Github Stats
-
-  <br/>
-    <a href="https://github.com/KabichNeu/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=KabichNeu&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
 <br/>
 
 <a href=""><img alt="Bisheshwor Neupane's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KabichNeu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>

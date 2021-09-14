@@ -3,7 +3,7 @@
 <h1 align="center">Hi👋, I am Bisheshwor Neupane</h1>
 <h3 align="center">I'm a passionate python programmer and Machine Learning enthusiast from Nepal.</h3>
 
-
+<p align="center">
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m an undergraduate of Computer Engineering at Kathmandu University.
@@ -17,10 +17,11 @@
 - 📫 How to reach me **bisheshwor.neupane@gmail.com**
 
 - ⚡ Fun fact **I love singing, rapping and lyrics writing.**
-
+</p>
+<p align="center">
 ## 🚀 Languages and Tools:
-
-<p align="left"> 
+</p>
+<p align="center"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://www.djangoproject.com/" target="_blank"><img src="https://img.icons8.com/color/96/000000/django.png"/></a> 
     <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"><img src="https://img.icons8.com/cute-clipart/100/000000/flask.png"/></a>
@@ -42,7 +43,7 @@
     </a>
 </p>
 
-
+<p align="center>
 ## 📊 My Github Stats
 <img align="start" src="https://github-readme-stats.vercel.app/api?username=KabichNeu&show_icons=true&theme=midnight-purple&line_height=24&hide=stars&bg_color=0d1117" />
 
@@ -50,14 +51,14 @@
 
 ---
 <br/>
-
+                                                                                                                                                    </p>
 <a href=""><img alt="Bisheshwor Neupane's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KabichNeu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
 
 ## Connect with me:
-<p align="left">
+<p align="center">
 
 
 <a href = "https://www.linkedin.com/in/bisheshwor-neupane-508344179/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>

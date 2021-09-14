@@ -1,6 +1,6 @@
 ### Hi there 
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/95Fa1Xc.jpeg" height="50px"/></a>
+<!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/95Fa1Xc.jpeg" height="50px"/></a> -->
 <h1 align="center">Hi👋, I am Bisheshwor Neupane</h1>
 <h3 align="center">I'm a passionate python programmer and Machine Learning enthusiast from Nepal.</h3>
 
@@ -40,6 +40,11 @@
 
 
 ## 📊 My Github Stats
+<img align="start" src="https://github-readme-stats.vercel.app/api?username=KabichNeu&show_icons=true&theme=midnight-purple&line_height=24&hide=stars&bg_color=0d1117" />
+
+<img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KabichNeu&layout=compact&theme=midnight-purple&bg_color=0d1117" />
+
+---
 <br/>
 
 <a href=""><img alt="Bisheshwor Neupane's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KabichNeu&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
@@ -50,8 +55,10 @@
 ## Connect with me:
 <p align="left">
 
+
 <a href = "https://www.linkedin.com/in/bisheshwor-neupane-508344179/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://www.youtube.com/channel/UCqKssFOM-kD4KJOIYUedLRA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-
+<a href = "https://www.upwork.com/freelancers/~01fc2bc0b0ea4e62e6"><img src="https://img.icons8.com/ios/50/000000/upwork.png"/></a>
+<a href = "https://www.facebook.com/Bshesh/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 </p>
 

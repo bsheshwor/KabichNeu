@@ -7,7 +7,7 @@
 
 - 🔭 I’m an undergraduate of Computer Engineering at Kathmandu University.
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning.**
+- 🌱 I’m currently working as a **Research Assistant** in **Digital Learning Research Lab in Kathmandu University**.
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
